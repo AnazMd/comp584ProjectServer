@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uu7QuTOEiZlUiNi5ypsfq9ALVy+FBKLlXz25jzRQbjfkC8oap4gKUNv5p66Zs2lMNxY6zC3fXZ0CT2uu+nizOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anzmh\\source\\repos\\BooksServerAPI\\BooksServerAPI\\BooksServerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anzmh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\anzmh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\anzmh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\anzmh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\anzmh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\anzmh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\anzmh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
